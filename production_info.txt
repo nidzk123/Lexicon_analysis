@@ -1,0 +1,4 @@
+For running this solution in a production environment, one can use cloud-based services such as AWS Lambda, Google Cloud Functions, or Microsoft Azure Functions to create a server less function. This way, you can trigger the processing of data whenever new input is available, making it a scalable and cost-effective solution.
+Additionally, you can store the input data in a cloud-based storage service like Amazon S3, Google Cloud Storage, or Azure Blob Storage. The script can be configured to listen for new data in the storage bucket and automatically process it.
+The choice of cloud services depends on specific use case, budget, and existing infrastructure. 
+Please note that the above information is based on my limited knowledge on cloud services and I do not have hands-on experience working on cloud services. 
